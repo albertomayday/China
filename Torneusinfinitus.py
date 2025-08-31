@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # Archivo convertido de Colab a .py
-
 import os
 import random
 import csv
